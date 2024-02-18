@@ -262,6 +262,7 @@
       "isActive": true,
       "description": "Creador de excel a partir de un conjunto de elementos",
       "highlights": [],
+      "github": "https://github.com/antaler/excel-creator",
       "url": "https://github.com/antaler/excel-creator"
     }
   ]
