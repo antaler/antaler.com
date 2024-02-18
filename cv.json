@@ -1,0 +1,268 @@
+{
+  "basics": {
+    "name": "Antonio Alejandro Serrano Ramírez",
+    "label": "Programador full stack con más de 3 años de experiencia",
+    "image": "/me.webp",
+    "email": "antaler.dev@outlook.com",
+    "phone": "",
+    "url": "https://antaler.dev",
+    "summary": "Programador full stack con más de 3 años de experiencia. Apasionado por la optimización del código y la mejora de la experiencia de desarrollo. Especializado en tecnologías frontend y backend, con habilidades de liderazgo y colaboración. Comprometido con ofrecer soluciones innovadoras y de alta calidad en cada proyecto.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "antaler",
+        "url": "https://linkedin.com/in/antaler"
+      },
+      {
+        "network": "X",
+        "username": "antaler",
+        "url": "https://x.com/_antaler"
+      },
+      {
+        "network": "GitHub",
+        "username": "antaler",
+        "url": "https://github.com/antaler"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Banco Santander",
+      "position": "Desarrollador Full-Stack",
+      "url": "",
+      "startDate": "2020-11-19",
+      "endDate": null,
+      "summary": "Desarrollé el producto de Santander Key, una solución de autorizacion de operaciones en el banco y su consola de administracion basado en firmas con clave criptograficas. Tambien ayude con la creacion de historias de usuario y su definicion funcional.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "I.E.S Virgen de la paloma",
+      "url": "https://www.palomafp.org/",
+      "area": "Tecnico superior de desarrollo de aplicaciones multiplataforma",
+      "studyType": "",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "gRPC",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Excel-Creator",
+      "isActive": true,
+      "description": "Creador de excel a partir de un conjunto de elementos",
+      "highlights": [],
+      "url": "https://github.com/antaler/excel-creator"
+    }
+  ]
+}
