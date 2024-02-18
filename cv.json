@@ -258,7 +258,7 @@
   ],
   "projects": [
     {
-      "name": "Excel-Creator",
+      "name": "excel-creator",
       "isActive": true,
       "description": "Creador de excel a partir de un conjunto de elementos",
       "highlights": [],
